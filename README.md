@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/abhishekpatelmc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/mcabhishekpatel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:mcabhishekpatel2017@gmail.com)
+[![linkedin](https://github.com/abhishekpatelmc/store/blob/master/asset/li-in.png)](https://www.linkedin.com/in/abhishekpatelmc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/abhishekpatelmc/store/blob/master/asset/twitter-logo.png)](https://twitter.com/mcabhishekpatel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/abhishekpatelmc/store/blob/master/asset/gmail-logo.com.svg)](mailto:mcabhishekpatel2017@gmail.com)
 
 
 <!Here are some ideas to get you started:
