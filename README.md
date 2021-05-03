@@ -2,7 +2,7 @@
 
 [![linkedin](https://github.com/abhishekpatelmc/store/blob/master/asset/li-in.png)](https://www.linkedin.com/in/abhishekpatelmc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/abhishekpatelmc/store/blob/master/asset/twitter-logo.png)](https://twitter.com/mcabhishekpatel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/abhishekpatelmc/store/blob/master/asset/gmail-logo.png)](mailto:mcabhishekpatel2017@gmail.com)
 
-- 🔭 I’m currently working on Reactjs 
+
 
 <!Here are some ideas to get you started:
 
