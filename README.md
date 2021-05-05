@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
 <h3 align="center">A Passionate developer</h3>
-<img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
+<img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="430" height="260" />
 
 - 🔭 I’m currently working on **ReactJs** 
 - 🌱 I’m currently learning **TypeScript**
