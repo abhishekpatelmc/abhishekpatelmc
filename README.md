@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
 <h3 align="center">A Passionate developer</h3>
-<img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="380" height="260" />
+<img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
 - 🔭 I’m currently working on **ReactJs** 
 - 🌱 I’m currently learning **TypeScript**
@@ -16,6 +16,7 @@
   <img align="center" src="https://img.shields.io/badge/-@mcabhishekpatel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mcabhishekpatel" alt="mcabhishekpatel" /></a> 
 <a href="https://linkedin.com/in/abhishekpatelmc" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-abhishekpatelmc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekpatelmc/" alt="abhishekpatelmc" /></a>
+<br>
 <a href="https://instagram.com/abhishekpatelmc" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-@abhishekpatelmc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abhishekpatelmc/" alt="abhishekpatelmc" /></a>
 <a href="mailto:mcabhishekpatel2017@gmail.com" target="blank" style="none" >
@@ -23,6 +24,6 @@
 </p>
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelmc&show_icons=true&locale=en&layout=compact" alt="abhishekpatelmc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelmc&show_icons=true&locale=en&layout=demolt="abhishekpatelmc" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekpatelmc&show_icons=true&locale=en" alt="abhishekpatelmc" /></p>
