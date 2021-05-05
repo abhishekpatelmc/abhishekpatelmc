@@ -2,10 +2,9 @@
 
 [![linkedin](https://github.com/abhishekpatelmc/store/blob/master/asset/li-in.png)](https://www.linkedin.com/in/abhishekpatelmc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/abhishekpatelmc/store/blob/master/asset/twitter-logo.png)](https://twitter.com/mcabhishekpatel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/abhishekpatelmc/store/blob/master/asset/gmail-logo.png)](mailto:mcabhishekpatel2017@gmail.com)
 
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 
-
-<!Here are some ideas to get you started:
-
+<!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +13,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
->
+-->
+
