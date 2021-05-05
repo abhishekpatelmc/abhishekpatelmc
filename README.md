@@ -24,7 +24,7 @@
 </p>
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelmc&show_icons=true&locale=en&layout=demo alt="abhishekpatelmc" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpatelmc)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekpatelmc&show_icons=true&locale=en" alt="abhishekpatelmc" /></p>
