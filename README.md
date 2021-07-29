@@ -12,7 +12,7 @@
 
 <h4 lign="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/@mcabhishekpatel" target="blank" style="none" >
+<a href="https://twitter.com/@mcabhishekpatel" target="_blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-@mcabhishekpatel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mcabhishekpatel" alt="mcabhishekpatel" /></a> 
 <a href="https://linkedin.com/in/abhishekpatelmc" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-abhishekpatelmc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekpatelmc/" alt="abhishekpatelmc" /></a>
