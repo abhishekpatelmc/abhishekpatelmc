@@ -25,9 +25,12 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelmc&show_icons=true&locale=en&layout=demo alt="abhishekpatelmc"/>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelmc&show_icons=true&locale=en&layout=demo alt="abhishekpatelmc"/> </p>-->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekpatelmc&show_icons=true&locale=en" alt="abhishekpatelmc"/>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekpatelmc&show_icons=true&locale=en" alt="abhishekpatelmc"/></p>
 
   
  [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishekpatelmc&bg_color=ffffff&color=708090&line=1E90FF&point=24292e)]()
