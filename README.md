@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate developer</h3>
 <img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
-- 💡 [Profile](https://flowcv.me/abhishekpatel)
+- 💡 [Profile](https://abhishekpatel.dev/)
 - 🔭 I’m currently working on **ReactJs** 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about anything, I am happy to help
