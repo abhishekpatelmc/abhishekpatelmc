@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
 - 💡 [Profile](https://abhishekpatel.dev/)
-- 🔭 I’m currently working on **ReactJs** 
+- 🔭 I’m currently working on **NextJs** 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
