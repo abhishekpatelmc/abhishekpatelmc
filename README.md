@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
-<h3 align="center">A Passionate developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
 - 💡 [Profile](https://abhishekpatel.dev/)
