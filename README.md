@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
-- 📝 [Resume](https://flowcv.com/resume/ghs2lgs1li)
+- 📝 [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/ksr5trb8ylq9hsa37zdcxlfvcq.pdf)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpatelmc&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="abhishekpatelmc" /></p>
