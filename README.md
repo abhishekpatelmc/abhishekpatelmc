@@ -3,8 +3,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
 - 💡 [Profile](https://abhishekpatel.dev/)
-- 🔭 I’m currently working on **NextJs** 
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on **DevOps** 
+- 🌱 I’m currently learning **Groovy**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
 - 📝 [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/ksr5trb8ylq9hsa37zdcxlfvcq.pdf)
