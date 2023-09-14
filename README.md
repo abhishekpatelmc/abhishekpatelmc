@@ -25,11 +25,11 @@
   <img align="center" src="https://img.shields.io/badge/-mcabhishekpatel2017-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mcabhishekpatel2017@gmail.com" alt="mcabhishekpatel2017" /></a>
 </p>
 
-<hr>
+<!-- <hr> -->
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelmc&show_icons=true&locale=en&layout=demo alt="abhishekpatelmc"/> </p>-->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekpatelmc&show_icons=true&locale=en" alt="abhishekpatelmc"/></p> -->
