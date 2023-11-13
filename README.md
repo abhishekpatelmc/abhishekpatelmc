@@ -4,7 +4,7 @@
 
 - 💡 [Profile](https://abhishekpatel.dev/)
 - 🔭 I’m currently working on **DevOps** 
-- 🌱 I’m currently learning **Groovy**
+- 🌱 I’m currently learning **Kubernetes**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
 - 📝 [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/ksr5trb8ylq9hsa37zdcxlfvcq.pdf)
