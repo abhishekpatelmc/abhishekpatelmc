@@ -3,12 +3,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
 - 💡 [Profile](https://abhishekpatel.dev/)
-- 🔭 I’m currently working on **Spring Boot** 
-- 🌱 I’m currently learning **Java**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
 - 📝 [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/ksr5trb8ylq9hsa37zdcxlfvcq.pdf)
-
+<!-- - 🔭 I’m currently working on **Spring Boot** -->
+<!-- - 🌱 I’m currently learning **Java** -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpatelmc&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="abhishekpatelmc" /></p>
 
