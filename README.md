@@ -20,10 +20,11 @@
 <br>
   <!-- 
 <a href="https://instagram.com/abhishekpatelmc" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-@abhishekpatelmc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abhishekpatelmc/" alt="abhishekpatelmc" /></a> -->
+  <img align="center" src="https://img.shields.io/badge/-@abhishekpatelmc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abhishekpatelmc/" alt="abhishekpatelmc" /></a>
 <a href="mailto:mcabhishekpatel2017@gmail.com" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-mcabhishekpatel2017-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mcabhishekpatel2017@gmail.com" alt="mcabhishekpatel2017" /></a>
 </p>
+-->
 
 <!-- <hr> -->
 
